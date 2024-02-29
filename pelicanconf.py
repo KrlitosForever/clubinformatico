@@ -27,11 +27,19 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ('Twitter', 'https://twitter.com/Krlitos_Forever'),
+    ('LinkedIn', 'https://www.linkedin.com/in/mg-carlos-carrasco/'),
+    ('GitHub','https://github.com/KrlitosForever'),
 )
 
 DEFAULT_PAGINATION = 10
+
+# Social-Links
+GITHUB_URL = 'https://github.com/KrlitosForever'
+TWITTER_URL = 'https://twitter.com/Krlitos_Forever'
+FACEBOOK_URL = 'https://www.linkedin.com/in/mg-carlos-carrasco/'
+
+TAGS = ()
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

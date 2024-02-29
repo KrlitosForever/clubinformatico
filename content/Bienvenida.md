@@ -3,7 +3,7 @@ Date: 2024-02-28 21:30
 Tags: Información
 Category: Información
 Authors: Carlos Carrasco Varas
-Summary: Biografía de Carlos Carrasco
+Summary: ¡Hola! Me llamo Carlos Carrasco y es un honor para mí darles la más cordial bienvenida a este club de informática. Es un momento emocionante para todos nosotros, ya que damos inicio a un nuevo capítulo lleno de exploración, aprendizaje y camaradería en el fascinante mundo de la tecnología.
 
 # Bienvenidos al Club Informático.
 ¡Hola! Me llamo Carlos Carrasco y es un honor para mí darles la más cordial bienvenida a este club de informática. Es un momento emocionante para todos nosotros, ya que damos inicio a un nuevo capítulo lleno de exploración, aprendizaje y camaradería en el fascinante mundo de la tecnología.
